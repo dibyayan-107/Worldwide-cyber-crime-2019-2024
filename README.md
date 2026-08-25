@@ -1,2 +1,53 @@
-# Worldwide-cyber-crime-2019-2024
-Data analysis of worldwide cyber crime
+# 🌐 Worldwide Cyber Crime Data Analysis (2019–2024)
+
+ 📌 Project Overview
+
+This project presents an in-depth analysis of worldwide cybercrime data from *2019 to 2024*. The main objective is to identify affected regions, types of cyber crimes, financial losses, and changes in cyber crime activity over time.
+---
+ 🎯 Project Objectives
+
+The main objectives of this project are to:
+
+- Analyze the affected countries of cyber crime from 2019 to 2024.
+- Identify the countries and regions most affected by cyber crimes.
+- Examine the highest cyber crime types and total cases each and every year.
+- Analyze financial losses caused by different cyber attacks.
+- Compare cyber crime incidents across different years.
+- Identify patterns and relationships within the data.
+- Present insights through an interactive Power BI dashboard.
+
+---
+
+ 🛠️ Tools and Technologies Used
+
+- **Microsoft Power BI** – Dashboard development and data visualization
+- **Microsoft Excel / CSV** – Dataset storage and initial data handling
+- **Pandas** – Data cleaning and transformation
+- **DAX** – Creating calculated columns and measures
+---
+
+## 📊 Dashboard Features
+
+The Power BI dashboard provides an interactive overview of worldwide cyber crime trends and includes:
+
+- Total number of cyber crime incidents
+- Year-wise analysis from 2019 to 2024
+- Country and region-wise cyber crime distribution
+- Analysis of different cyber crime types
+- Financial loss analysis
+- Trend analysis over time
+- Interactive filters and slicers
+- Key performance indicators (KPIs)
+- Comparative visualizations
+
+---
+
+## 🔍 Conclusion
+
+This project demonstrates the complete data analysis workflow, starting from **raw data cleaning and transformation** to the creation of an **interactive Power BI dashboard**.
+The analysis provides valuable insights into worldwide cyber crime trends between 2019 and 2024 and highlights the importance of data-driven approaches in understanding the growing impact of cyber threats.
+
+---
+
+## 👤 Author
+Dibyayan
