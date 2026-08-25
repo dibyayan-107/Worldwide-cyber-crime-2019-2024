@@ -1,4 +1,4 @@
-# 🌐 Worldwide Cyber Crime Data Analysis (2019–2024)
+# 🌐 Cyber Crime Data Analysis (2019–2024)
 
  📌 Project Overview
 
@@ -41,13 +41,5 @@ The Power BI dashboard provides an interactive overview of worldwide cyber crime
 - Comparative visualizations
 
 ---
-
-## 🔍 Conclusion
-
-This project demonstrates the complete data analysis workflow, starting from **raw data cleaning and transformation** to the creation of an **interactive Power BI dashboard**.
-The analysis provides valuable insights into worldwide cyber crime trends between 2019 and 2024 and highlights the importance of data-driven approaches in understanding the growing impact of cyber threats.
-
----
-
 ## 👤 Author
 Dibyayan
