@@ -1,6 +1,6 @@
 # 🌐 Cyber Crime Data Analysis (2019–2024)
 
-📌 Project Overview
+📌<b> Project Overview</b>
 
 This project presents an in-depth analysis of worldwide cybercrime data from *2019 to 2024*. The main objective is to identify affected regions, types of cyber crimes, financial losses, and changes in cyber crime activity over time.
 
@@ -41,4 +41,5 @@ The Power BI dashboard provides an interactive overview of worldwide cyber crime
 - Comparative visualizations
 
  <b>👤 Author<b>
+ 
 Dibyayan
