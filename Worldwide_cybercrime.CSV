@@ -1,0 +1,217 @@
+Year,Country,Crime_Type,Cases,Financial_Loss_USD
+2019,USA,Phishing,917,756525
+2019,USA,Hacking,1644,667464
+2019,USA,Identity Theft,835,1093850
+2019,USA,Online Fraud,1093,469990
+2019,USA,Malware Attack,654,337464
+2019,USA,Data Breach,471,231261
+2019,India,Phishing,546,360360
+2019,India,Hacking,1463,1224531
+2019,India,Identity Theft,1755,914355
+2019,India,Online Fraud,1672,911240
+2019,India,Malware Attack,535,318325
+2019,India,Data Breach,1225,812175
+2019,UK,Phishing,1648,2354992
+2019,UK,Hacking,1822,1978692
+2019,UK,Identity Theft,1143,337185
+2019,UK,Online Fraud,763,774445
+2019,UK,Malware Attack,1520,2258720
+2019,UK,Data Breach,1734,1066410
+2019,Germany,Phishing,322,463680
+2019,Germany,Hacking,1219,1349433
+2019,Germany,Identity Theft,1951,515064
+2019,Germany,Online Fraud,1751,1329009
+2019,Germany,Malware Attack,472,498432
+2019,Germany,Data Breach,1653,413250
+2019,Canada,Phishing,1971,2205549
+2019,Canada,Hacking,445,405395
+2019,Canada,Identity Theft,449,244705
+2019,Canada,Online Fraud,1725,2277000
+2019,Canada,Malware Attack,1649,346290
+2019,Canada,Data Breach,882,871416
+2019,Australia,Phishing,1973,2087434
+2019,Australia,Hacking,1388,1629512
+2019,Australia,Identity Theft,1904,1186192
+2019,Australia,Online Fraud,1561,2314963
+2019,Australia,Malware Attack,1598,2265964
+2019,Australia,Data Breach,784,751072
+2020,USA,Phishing,286,155584
+2020,USA,Hacking,224,250432
+2020,USA,Identity Theft,1992,561744
+2020,USA,Online Fraud,1982,1821458
+2020,USA,Malware Attack,1230,1809330
+2020,USA,Data Breach,1010,334310
+2020,India,Phishing,575,162150
+2020,India,Hacking,1219,707020
+2020,India,Identity Theft,988,443612
+2020,India,Online Fraud,1598,989162
+2020,India,Malware Attack,573,559821
+2020,India,Data Breach,401,333231
+2020,UK,Phishing,320,65600
+2020,UK,Hacking,1352,1020760
+2020,UK,Identity Theft,1172,1099336
+2020,UK,Online Fraud,1344,540288
+2020,UK,Malware Attack,997,304085
+2020,UK,Data Breach,1407,1399965
+2020,Germany,Phishing,421,127984
+2020,Germany,Hacking,574,128002
+2020,Germany,Identity Theft,1051,869177
+2020,Germany,Online Fraud,1111,346632
+2020,Germany,Malware Attack,600,179400
+2020,Germany,Data Breach,841,822498
+2020,Canada,Phishing,348,114144
+2020,Canada,Hacking,1976,1217216
+2020,Canada,Identity Theft,316,353288
+2020,Canada,Online Fraud,275,336875
+2020,Canada,Malware Attack,1180,389400
+2020,Canada,Data Breach,369,308484
+2020,Australia,Phishing,820,534640
+2020,Australia,Hacking,440,638440
+2020,Australia,Identity Theft,1216,867008
+2020,Australia,Online Fraud,986,321436
+2020,Australia,Malware Attack,1500,678000
+2020,Australia,Data Breach,284,417480
+2021,USA,Phishing,1988,1200752
+2021,USA,Hacking,1389,1044528
+2021,USA,Identity Theft,1208,990560
+2021,USA,Online Fraud,381,418338
+2021,USA,Malware Attack,647,514365
+2021,USA,Data Breach,915,825330
+2021,India,Phishing,938,727888
+2021,India,Hacking,348,80388
+2021,India,Identity Theft,809,906889
+2021,India,Online Fraud,1111,386628
+2021,India,Malware Attack,1742,1674062
+2021,India,Data Breach,1032,863784
+2021,UK,Phishing,859,889065
+2021,UK,Hacking,477,507528
+2021,UK,Identity Theft,1442,1342502
+2021,UK,Online Fraud,1594,2210878
+2021,UK,Malware Attack,879,580140
+2021,UK,Data Breach,1797,2287581
+2021,Germany,Phishing,1531,2105125
+2021,Germany,Hacking,1726,681770
+2021,Germany,Identity Theft,1876,2783984
+2021,Germany,Online Fraud,1922,1232002
+2021,Germany,Malware Attack,337,392268
+2021,Germany,Data Breach,887,1182371
+2021,Canada,Phishing,807,372027
+2021,Canada,Hacking,302,225896
+2021,Canada,Identity Theft,1808,414032
+2021,Canada,Online Fraud,1998,2405592
+2021,Canada,Malware Attack,1273,1494502
+2021,Canada,Data Breach,533,195611
+2021,Australia,Phishing,595,373065
+2021,Australia,Hacking,723,871215
+2021,Australia,Identity Theft,1385,639870
+2021,Australia,Online Fraud,1463,2163777
+2021,Australia,Malware Attack,1831,1393391
+2021,Australia,Data Breach,912,943920
+2022,USA,Phishing,1865,1346530
+2022,USA,Hacking,277,235173
+2022,USA,Identity Theft,1601,1066266
+2022,USA,Online Fraud,1628,566544
+2022,USA,Malware Attack,1843,1183206
+2022,USA,Data Breach,256,372992
+2022,India,Phishing,1521,2106585
+2022,India,Hacking,277,258441
+2022,India,Identity Theft,209,184129
+2022,India,Online Fraud,396,531432
+2022,India,Malware Attack,518,188552
+2022,India,Data Breach,1869,1287741
+2022,UK,Phishing,230,89010
+2022,UK,Hacking,1463,1941401
+2022,UK,Identity Theft,410,428450
+2022,UK,Online Fraud,237,135327
+2022,UK,Malware Attack,962,837902
+2022,UK,Data Breach,1347,1671627
+2022,Germany,Phishing,1346,1487330
+2022,Germany,Hacking,1284,1821996
+2022,Germany,Identity Theft,1321,1937907
+2022,Germany,Online Fraud,1013,1464798
+2022,Germany,Malware Attack,1705,925815
+2022,Germany,Data Breach,393,120651
+2022,Canada,Phishing,501,285570
+2022,Canada,Hacking,604,378708
+2022,Canada,Identity Theft,524,602076
+2022,Canada,Online Fraud,1108,1408268
+2022,Canada,Malware Attack,1317,736203
+2022,Canada,Data Breach,611,568230
+2022,Australia,Phishing,1860,2070180
+2022,Australia,Hacking,1146,1646802
+2022,Australia,Identity Theft,1051,1402034
+2022,Australia,Online Fraud,383,120262
+2022,Australia,Malware Attack,1654,525972
+2022,Australia,Data Breach,647,131988
+2023,USA,Phishing,1714,1943676
+2023,USA,Hacking,669,481680
+2023,USA,Identity Theft,1178,956536
+2023,USA,Online Fraud,1824,1524864
+2023,USA,Malware Attack,986,256360
+2023,USA,Data Breach,1451,850286
+2023,India,Phishing,1231,1562139
+2023,India,Hacking,1110,391830
+2023,India,Identity Theft,392,215992
+2023,India,Online Fraud,858,601458
+2023,India,Malware Attack,1589,486234
+2023,India,Data Breach,437,110998
+2023,UK,Phishing,1798,2499220
+2023,UK,Hacking,998,344310
+2023,UK,Identity Theft,756,719712
+2023,UK,Online Fraud,1907,1842162
+2023,UK,Malware Attack,217,323764
+2023,UK,Data Breach,994,330008
+2023,Germany,Phishing,1494,578178
+2023,Germany,Hacking,753,1015044
+2023,Germany,Identity Theft,1040,896480
+2023,Germany,Online Fraud,1060,993220
+2023,Germany,Malware Attack,1089,1200078
+2023,Germany,Data Breach,459,578799
+2023,Canada,Phishing,1368,276336
+2023,Canada,Hacking,1409,686183
+2023,Canada,Identity Theft,803,619113
+2023,Canada,Online Fraud,1982,1758034
+2023,Canada,Malware Attack,1559,1308001
+2023,Canada,Data Breach,500,612500
+2023,Australia,Phishing,921,1118094
+2023,Australia,Hacking,589,753920
+2023,Australia,Identity Theft,1673,759542
+2023,Australia,Online Fraud,1730,2344150
+2023,Australia,Malware Attack,238,212534
+2023,Australia,Data Breach,1593,1116693
+2024,USA,Phishing,1519,698740
+2024,USA,Hacking,239,141010
+2024,USA,Identity Theft,1010,229270
+2024,USA,Online Fraud,906,1259340
+2024,USA,Malware Attack,816,878832
+2024,USA,Data Breach,1013,1495188
+2024,India,Phishing,1306,1248536
+2024,India,Hacking,1413,710739
+2024,India,Identity Theft,1035,813510
+2024,India,Online Fraud,468,478764
+2024,India,Malware Attack,1068,1198296
+2024,India,Data Breach,1959,1102917
+2024,UK,Phishing,289,93058
+2024,UK,Hacking,297,357885
+2024,UK,Identity Theft,1444,2164556
+2024,UK,Online Fraud,1605,1431660
+2024,UK,Malware Attack,877,436746
+2024,UK,Data Breach,1179,1718982
+2024,Germany,Phishing,858,976404
+2024,Germany,Hacking,348,259956
+2024,Germany,Identity Theft,661,198961
+2024,Germany,Online Fraud,1872,1418976
+2024,Germany,Malware Attack,688,180256
+2024,Germany,Data Breach,1846,2152436
+2024,Canada,Phishing,660,632940
+2024,Canada,Hacking,452,146900
+2024,Canada,Identity Theft,589,865241
+2024,Canada,Online Fraud,1063,266813
+2024,Canada,Malware Attack,450,596250
+2024,Canada,Data Breach,1303,754437
+2024,Australia,Phishing,1240,1793040
+2024,Australia,Hacking,1043,857346
+2024,Australia,Identity Theft,396,358776
+2024,Australia,Online Fraud,355,471440
+2024,Australia,Malware Attack,973,1295063
+2024,Australia,Data Breach,1360,1826480
