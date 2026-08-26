@@ -37,8 +37,6 @@ The Power BI dashboard provides an interactive overview of worldwide cyber crime
 - Financial loss analysis
 - Trend analysis over time
 - Interactive filters and slicers
-- Key performance indicators (KPIs)
-- Comparative visualizations
 
  <b>👤 Author<b>
  
