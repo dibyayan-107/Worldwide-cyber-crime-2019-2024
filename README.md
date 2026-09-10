@@ -22,7 +22,7 @@ The main objectives of this project are to:
 
 - **Microsoft Power BI** – Dashboard development and data visualization
 - **Microsoft Excel / CSV** – Dataset storage and initial data handling
-- **Python(Pandas)** – Data cleaning and tranpsformation
+- **Python(Pandas)** – Data cleaning and transformation 
 - **DAX** – Creating calculated columns and measures
   
 
