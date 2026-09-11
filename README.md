@@ -1,10 +1,10 @@
 # 🌐 Cyber Crime Data Analysis (2019–2024)
 
-📌<b> Project Overview</b>
+## 📌Project Overview
 
 This project presents an in-depth analysis of worldwide cybercrime data from *2019 to 2024*. The main objective is to identify affected regions, types of cyber crimes, financial losses, and changes in cyber crime activity over time.
 
- 🎯 <b>Project Objectives</b>
+ ## 🎯Project Objectives
 
 The main objectives of this project are to:
 
@@ -17,16 +17,18 @@ The main objectives of this project are to:
 - Present insights through an interactive Power BI dashboard.
 
 
-
- 🛠️<b> Tools and Technologies Used</b>
+ ## 🛠️Tools and Technologies Used
 
 - **Microsoft Power BI** – Dashboard development and data visualization
 - **Microsoft Excel / CSV** – Dataset storage and initial data handling
 - **Python(Pandas)** – Data cleaning and transformation 
 - **DAX** – Creating calculated columns and measures
-  
 
- 📊 <b>Dashboard Features</b>
+## 🔄 Project Workflow
+`CSV Dataset → Pandas → AWS S3 → Snowflake → SQL Analysis → Power BI`
+
+
+ ## 📊 Dashboard Features
 
 The Power BI dashboard provides an interactive overview of worldwide cyber crime trends and includes:
 
@@ -38,6 +40,6 @@ The Power BI dashboard provides an interactive overview of worldwide cyber crime
 - Trend analysis over time
 - Interactive filters and slicers
 
- <b>👤 Author<b>
+ ## 👤 Author
  
 Dibyayan
