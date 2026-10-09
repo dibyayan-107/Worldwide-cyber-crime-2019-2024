@@ -18,11 +18,28 @@ The main objectives of this project are to:
 
 
  ## 🛠️Tools and Technologies Used
-
-- **Microsoft Power BI** – Dashboard development and data visualization
-- **Microsoft Excel / CSV** – Dataset storage and initial data handling
-- **Python(Pandas)** – Data cleaning and transformation 
-- **DAX** – Creating calculated columns and measures
+<table>
+ <tr>
+ <th>Tools</th>
+ <th>Usage</th>
+ </tr>
+ <tr>
+ <td>Microsoft Power BI</td>
+ <td>Dashboard development and data visualization</td>
+ </tr>
+ <tr>
+ <td>Microsoft Excel / CSV</td>
+ <td>Dataset storage and initial data handling</td>
+ </tr>
+ <tr>
+ <td>Python(Pandas)</td>
+ <td>Data cleaning and transformation</td>
+ </tr>
+ <tr>
+ <td>DAX</td>
+ <td>Creating calculated columns and measures</td>
+ </tr>
+ </table>
 
 ## 🔄 Project Workflow
 `CSV Dataset → Pandas → AWS S3 → Snowflake → SQL Analysis → Power BI`
