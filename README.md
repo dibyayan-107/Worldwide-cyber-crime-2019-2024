@@ -57,6 +57,8 @@ The Power BI dashboard provides an interactive overview of worldwide cyber crime
 - Trend analysis over time
 - Interactive filters and slicers
 
+  <img width="800" height="500" alt="Screenshot 2026-10-22 211331" src="https://github.com/user-attachments/assets/f7ff7533-185e-4b5a-ab6b-996eb8f1789f" />
+
  ## 👤 Author
  
 Dibyayan
